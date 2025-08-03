@@ -1,0 +1,380 @@
+{
+  "title": "Yemen Innovators Team",
+  "description": "Pioneering Yemen's tech ecosystem through innovation, capacity building, and entrepreneurial development.",
+  "logo": "logo.svg",
+  "mission": {
+    "text": "The Yemen Innovators Team is dedicated to fostering a vibrant, resilient, and inclusive innovation ecosystem across Yemen. We empower youth to drive economic recovery and sustainable development by equipping individuals and various institutions-from the private sector and civil society to government bodies- with cutting-edge innovation methodologies and specialized guidance to develop groundbreaking solutions across all sectors.",
+    "details": [
+      {
+        "Empowering Youth": "Equipping Yemeni youth with innovation methodologies and specialized guidance to develop solutions for pressing challenges."
+      },
+      {
+        "Fostering Solutions": "Driving the creation of innovative, community-led solutions for economic recovery and sustainable development."
+      },
+      {
+        "Enhancing Ecosystems": "Cultivating collaborative multi-sector partnerships to nurture a thriving entrepreneurial environment in Yemen."
+      }
+    ]
+  },
+  "story": [
+    "Founded in early 2024 by five passionate Yemeni youth who are alumni of global UNLEASH programs, the Yemen Innovators Team emerged from a shared belief in the transformative power of innovation in Yemen.",
+    "Driven by the urgent need for changemakers amidst Yemen's ongoing challenges, we set out to connect Yemeni youth with a global network of innovators and empower them to develop solutions. Our historic milestone, the first-ever UNLEASH Hack Yemen in November 2024, successfully brought together young changemakers to address challenges, demonstrating our capacity to support innovation across various institutions and sectors. This journey has not only delivered tangible solutions but also laid the foundation for scaling our impact and fostering a resilient, innovation-driven community across Yemen."
+  ],
+  "services": [
+    {
+      "id": "hackathon",
+      "label": "Hackathons Design & Management",
+      "description": "We design and facilitate custom hackathons, tech challenges, sprint workshops, and problem-solving jams tailored to specific industry needs and challenges.",
+      "details": [
+        "End-to-end event conceptualization and execution",
+        "Customized challenge formulation for specific organizational and sectoral needs",
+        "Engagement of diverse participants, including Yemeni youth and experts",
+        "Robust event management and logistical support"
+      ],
+      "buttonText": "Discuss Your Hackathon Needs",
+      "icon": "code",
+      "image": "hero-dark.svg"
+    },
+    {
+      "id": "capacity",
+      "label": "Capacity Building",
+      "description": "Our comprehensive capacity building programs are designed to enhance the skills of individuals and teams within the private sector, civil society, and government. We focus on innovation methodologies, technical proficiencies, strategic leadership, and entrepreneurial acumen to drive sustainable growth.",
+      "details": [
+        "Technical skills training",
+        "Design thinking workshops",
+        "Leadership development",
+        "Project-based learning"
+      ],
+      "buttonText": "Explore Training Options",
+      "icon": "users",
+      "image": "hero-dark.svg"
+    },
+    {
+      "id": "entrepreneurship",
+      "label": "Strategic Innovation & Entrepreneurial Advisory",
+      "description": "We offer expert advisory and mentorship to youth-led initiatives, startups, and established organizations seeking to innovate and scale. Our guidance covers business modeling, strategic planning, market entry, and fostering an entrepreneurial mindset to navigate complex environments effectively.",
+      "details": [
+        "Business model development",
+        "Pitch coaching",
+        "Growth strategies",
+        "Investor connections"
+      ],
+      "buttonText": "Request Consulting Services",
+      "icon": "briefcase",
+      "image": "hero-dark.svg"
+    }
+  ],
+  "stats": [
+    {
+      "icon": "",
+      "value": "43+",
+      "statement": "Hackathon Participants"
+    },
+    {
+      "icon": "",
+      "value": "9",
+      "statement": "Solutions Developed"
+    },
+    {
+      "icon": "",
+      "value": "95%",
+      "statement": "of Talents recommended others to participate in UNLEASH Hacks"
+    },
+    {
+      "icon": "",
+      "value": "7",
+      "statement": "Facilitators Trained on UNLEASH methodology"
+    }
+  ],
+  "team": [
+    {
+      "name": "Badea Nabil",
+      "position": "Founder & Lead Consultant",
+      "image": "adeeb",
+      "bio": "Badea has 10+ years experience in tech leadership and has facilitated over 20 hackathons across the MENA region."
+    },
+    {
+      "name": "Badea Nabil",
+      "position": "Founder & Lead Consultant",
+      "image": "adeeb",
+      "bio": "Badea has 10+ years experience in tech leadership and has facilitated over 20 hackathons across the MENA region."
+    },
+    {
+      "name": "Badea Nabil",
+      "position": "Founder & Lead Consultant",
+      "image": "adeeb",
+      "bio": "Badea has 10+ years experience in tech leadership and has facilitated over 20 hackathons across the MENA region."
+    },
+    {
+      "name": "Badea Nabil",
+      "position": "Founder & Lead Consultant",
+      "image": "adeeb",
+      "bio": "Badea has 10+ years experience in tech leadership and has facilitated over 20 hackathons across the MENA region."
+    }
+  ],
+  "partners": [
+    {
+      "name": "UNLEASH",
+      "logo": "brand-09",
+      "link": "https://unleash.org"
+    },
+    {
+      "name": "Al-Tadhamon Bank",
+      "logo": "brand-09",
+      "link": "http://www.tadhamonbank.com/"
+    },
+    {
+      "name": "Renewal Youth Organization (RYO)",
+      "logo": "brand-09",
+      "link": "https://renewalyouth.org/"
+    },
+    {
+      "name": "Rowad Foundation",
+      "logo": "brand-09",
+      "link": "https://rowad.org/"
+    },
+    {
+      "name": "Al-Saeed University",
+      "logo": "",
+      "link": "https://alsaeeduni.edu.ye/"
+    },
+    {
+      "name": "Al-Amal Bank",
+      "logo": "",
+      "link": "https://alamalbank.com/"
+    },
+    {
+      "name": "Al-Amal Foundation for Training and Entrepreneurship",
+      "logo": "",
+      "link": "https://www.facebook.com/REYADAHYEMEN/?locale=ar_AR"
+    },
+    {
+      "name": "YOUR Echo",
+      "logo": "",
+      "link": "https://www.yourecho.org/"
+    },
+    {
+      "name": "Kayan Foundation",
+      "logo": "",
+      "link": "https://www.facebook.com/kayanfoundation/"
+    },
+    {
+      "name": "Wasl for Peace Organization",
+      "logo": "",
+      "link": "https://www.wasl4po.org/"
+    },
+    {
+      "name": "Golden Media",
+      "logo": "",
+      "link": "https://www.facebook.com/GoldeMedia67/?locale=nn_NO"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "featured": true,
+      "title": "Tech for Economic Recovery Hackathon",
+      "subtitle": "Frst Hackathon in Yemen with UNLEASH methodology",
+      "description": "We led Yemen's largest tech hackathon focused on post-conflict economic recovery, bringing together 200+ developers, designers, and entrepreneurs to create innovative solutions for local challenges.",
+      "image": "about-dark-01.png",
+      "overview": [
+        "In 2022, YemenInnovators led the design and facilitation of Yemen's largest hackathon focused on post-conflict economic recovery. This 48-hour event brought together over 200 developers, designers, and entrepreneurs from across the country to create technology solutions for local economic challenges.",
+        "Using the Unleash methodology, we structured the event to maximize creativity, collaboration, and practical outcomes. Participants formed interdisciplinary teams to tackle challenges in sectors including agriculture, education, healthcare, financial services, and small business development."
+      ],
+      "testimonials": [
+        {
+          "quote": "The Tech for Economic Recovery hackathon was a transformative experience. The YemenTechVision team created an environment where innovation thrived despite our challenging context.",
+          "name": "Mohammed Al-Qadhi",
+          "position": "Participant",
+          "company": "Startup Founder",
+          "image": ""
+        },
+        {
+          "quote": "YemenInnovators' approach to hackathon facilitation was professional and inspiring. They balanced structure with creative freedom perfectly.",
+          "name": "Amal Hussein",
+          "position": "Partner",
+          "company": "Yemen Digital Hub",
+          "image": ""
+        },
+        {
+          "quote": "This event demonstrated what's possible when Yemeni tech talent is given the right platform and support. The results exceeded our expectations.",
+          "name": "Dr. Khalid Morshed",
+          "position": "Director",
+          "company": "International Development Fund",
+          "image": ""
+        }
+      ],
+      "roles": [
+        {
+          "title": "Event Design",
+          "description": "We created the entire event framework, from challenge definitionto team formation and judging criteria, adapting the UNLEASH methodology to Yemen's context.",
+          "icon": "code"
+        },
+        {
+          "title": "Event Design",
+          "description": "We created the entire event framework, from challenge definitionto team formation and judging criteria, adapting the UNLEASH methodology to Yemen's context.",
+          "icon": "users"
+        },
+        {
+          "title": "Event Design",
+          "description": "We created the entire event framework, from challenge definitionto team formation and judging criteria, adapting the UNLEASH methodology to Yemen's context.",
+          "icon": "briefcase"
+        }
+      ],
+      "approach": {
+        "title": "Implementation Approach",
+        "subtitle": "We implemented this hackathon using a carefully designed approach that emphasized inclusion, creativity, and tangible outcomes. Key elements included:",
+        "items": [
+          {"Challenge Definition": "Working with economic experts to define relevant, specific challenges."},
+          {"Diverse Participation": "Ensuring geographical, gender, and skill diversity among participants."},
+          {"Expert Mentorship": "Providing teams with access to technical and domain experts throughout the event."},
+          {"Implementation Focus": "Emphasizing solutions that could be realistically implemented with available resources."}
+        ]
+      },
+      "outputs": {
+          "title": "Long-term Outcoms",
+          "subtitle": "Beyond the immediate results of the hackathon, several long-term impacts have emerged:",
+          "outcoms": [
+            {
+              "Ecosystem Growth": "Increased activity in Yemen's tech startup scene, with multiple new ventures launched."
+            },
+            {
+              "Knowledge Transfer": "Skills developed during the hackathon have been applied across various sectors."
+            },
+            {
+              "Economic Impact": "New digital services are improving efficiency and creating job opportunities."
+            },
+            {
+              "Institutional Adoption": "Several local organizations have integrated technology solutions developed at the hackathon."
+            }
+          ]
+        },
+      "stats": [
+        {
+          "icon": "",
+          "value": "43+",
+          "statement": "Hackathon Participants"
+        },
+        {
+          "icon": "",
+          "value": "9",
+          "statement": "Solutions Developed"
+        },
+        {
+          "icon": "",
+          "value": "95%",
+          "statement": "of Talents recommended others to participate in UNLEASH Hacks"
+        },
+        {
+          "icon": "",
+          "value": "7",
+          "statement": "Facilitators Trained on UNLEASH methodology"
+        }
+      ],
+      "team": [
+        {
+          "title": "event_team",
+          "members": [
+            {
+              "name": "Badea Nabil 1",
+              "position": "head"
+            },
+            {
+              "name": "Someone",
+              "position": "tail"
+            }
+          ]
+        },
+        {
+          "title": "design team",
+          "members": [
+            {
+              "name": "Badea Nabil 2",
+              "position": "head"
+            }
+          ]
+        },
+        {
+          "title": "consultants",
+          "members": [
+            {
+              "name": "Badea Nabil 3",
+              "position": "head"
+            }
+          ]
+        },
+        {
+          "title": "facilitators",
+          "members": [
+            {
+              "name": "Badea Nabil 4",
+              "position": "head"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "title": "The Rise of Yemen's Tech Ecosystem: Challenges and Opportunities",
+      "excerpt": "An in-depth look at how Yemen's tech community is growing despite challenges, with insights from key ecosystem players.",
+      "image": "",
+      "date": "April 15, 2023"
+    },
+    {
+      "title": "Hackathons as Catalysts for Economic Recovery in Post-Conflict Regions",
+      "excerpt": "How rapid innovation events can spark economic activity and technological advancement in challenging contexts.",
+      "image": "",
+      "date": "March 22, 2023"
+    }
+  ],
+  "contacts": [
+    {
+      "label": "Address",
+      "icon": "",
+      "value": "Taiz"
+    },
+    {
+      "label": "Email",
+      "icon": "",
+      "value": "yeinnovatorsteam@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "icon": "",
+      "value": "+967 730 744 759"
+    }
+  ],
+  "Social Media": [
+    {
+      "label": "Facebook",
+      "icon": "",
+      "value": "https://www.facebook.com/share/1EtPt8uK6E/"
+    },
+    {
+      "label": "Linkedin",
+      "icon": "",
+      "value": "https://www.linkedin.com/company/ye-innovators/"
+    },
+    {
+      "label": "GitHub",
+      "icon": "",
+      "value": "https://www.facebook.com/share/1EtPt8uK6E/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    }
+  ]
+}
